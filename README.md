@@ -76,7 +76,6 @@ Integration of tracking algorithms (e.g., DeepSORT) to monitor vehicle trajector
 ### 🔹 Digital Twin for Simulation Testing
 Creation of a digital replica of intersections using simulation platforms (e.g., SUMO) to evaluate signal strategies before real-world deployment.
 
-
 ## 🛠 Technologies Used
 
 - Python  
